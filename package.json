@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "jest": "^29.3.1"
+  },
+  "name": "tdd2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
